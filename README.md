@@ -14,6 +14,8 @@
 * [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * Git
+  * GitHub :octocat:
+  * GitLab
   * GitKraken
   * GitHub Desktop
 * Ditto

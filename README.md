@@ -6,9 +6,9 @@
   * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   * [Opera](https://www.opera.com/)
   * [Edge](https://www.microsoft.com/en-us/edge)
-* Extensions
-  * uBlock Origin - block ads.
-  * Awesome Screenshot Capture - take screenshots of websites.
+* [Extensions](https://chrome.google.com/webstore/category/extensions)
+  * [uBlock Origin - block ads.](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  * [Awesome Screenshot Capture - take screenshots of websites.](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Node.js](https://nodejs.org/en/)

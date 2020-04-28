@@ -28,5 +28,13 @@
 * [Microsoft Office](https://www.office.com/?auth=2)
 * [LibreOffice](https://www.libreoffice.org/)
 
+## Chocolatey
+
+### Installing multiple applications
+
+```bash
+choco install firefox webstorm opera slack git sublimetext3 notepadplusplus vlc libreoffice-fresh vscode --pre -y
+```
+
 ## Credits
 - [Micah: Front-End Development Setup on a PC](https://github.com/asuh/front-end-windows/blob/master/readme.md)

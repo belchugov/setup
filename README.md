@@ -27,3 +27,6 @@
   * [Viber](https://www.viber.com/en/)
 * [Microsoft Office](https://www.office.com/?auth=2)
 * [LibreOffice](https://www.libreoffice.org/)
+
+## Credits
+- [Micah: Front-End Development Setup on a PC](https://github.com/asuh/front-end-windows/blob/master/readme.md)

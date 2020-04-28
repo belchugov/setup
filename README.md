@@ -14,11 +14,11 @@
 * [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/)
 * Git
-  * GitHub :octocat:
-  * GitLab
-  * GitKraken
-  * GitHub Desktop
-* Ditto
+  * [GitHub](https://github.com/) :octocat:
+  * [GitLab](https://about.gitlab.com/)
+  * [GitKraken](https://www.gitkraken.com/)
+  * [GitHub Desktop](https://desktop.github.com/)
+* [Ditto](https://ditto-cp.sourceforge.io/)
 * Communication
   * Slack
   * Zoom
